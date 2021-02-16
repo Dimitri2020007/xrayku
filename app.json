@@ -30,14 +30,6 @@
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
             "value": "https://raw.githubusercontent.com/Dimitri2020007/xrayku/master/etc/StoreFiles"
-        },
-        "SSL_crt": {
-            "description": "自定义ssl证书",
-            "value": "https://raw.githubusercontent.com/Dimitri2020007/xrayku/master/cert.crt"
-        },
-        "SSL_key": {
-            "description": "自定义ssl密钥",
-            "value": "https://raw.githubusercontent.com/Dimitri2020007/xrayku/master/cert.key"
         }
     },
     "website": "https://github.com/Dimitri2020007/xrayku",
