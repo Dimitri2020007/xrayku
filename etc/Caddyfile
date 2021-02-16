@@ -1,7 +1,7 @@
 127.0.0.1:443
 root * /usr/share/caddy
 file_server browse
-tls $SSL_crt $SSL_key
+tls /etc/caddy/$SSL_crt /etc/caddy/$SSL_key
 
 header {
     X-Robots-Tag none
