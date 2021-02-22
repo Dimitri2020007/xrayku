@@ -34,8 +34,6 @@
 ```
 </details>
 
-| --------- | --------- | -------- |
-| `xray` | n/a |  
 <details>
 <summary>trojan-go</summary>
 
