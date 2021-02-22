@@ -1,4 +1,4 @@
-127.0.0.1:443 {
+:$PORT {
   header {
       X-Robots-Tag none
       X-Content-Type-Options nosniff
