@@ -33,7 +33,9 @@
 * 底层传输安全：tls
 ```
 </details>
-  
+
+| --------- | --------- | -------- |
+| `xray` | n/a |  
 <details>
 <summary>trojan-go</summary>
 
